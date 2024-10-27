@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+currentDir=$(pwd)
+cd $HOME/.config/matlab
+matlab -r "cd ${currentDir}"
+cd -
