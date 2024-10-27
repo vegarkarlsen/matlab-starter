@@ -1,7 +1,7 @@
 
 # matlab-starter
 
-This project aims to fix the rendering problems matlab experience on linux installs.
+This project aims to fix the rendering problems matlab experience on some linux installs.
 This is done by:
 
 - 1. Swaping matlab's local libstdc++ file with system libstdc++.
