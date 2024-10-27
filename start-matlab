@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
-dir_to_open=$PWD
 config_path=$HOME/.config/matlab
-matlab_exec=$HOME/.local/var/matlab_2024a/bin/matlab
+dir_to_open=$PWD
+matlab_exec=matlab
 
 usage(){
     echo "$0 [DIR] [-o]"
