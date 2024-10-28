@@ -33,8 +33,8 @@ file
 The `start-matlab` provides a dynamic way to solve this by changing directory to
 somewhere the `java.opts` file exists before starting matlab. To use the script
 copy the `java.opts` to `$HOME/.config/matlab` or change the `$config_path`
-inside the script. If `matlab` is not in path the variable, `$matlab_exec`, can
-be changed to the matlab executable.
+inside the script. If `matlab` is not in path, the variable - `$matlab_exec` - can
+be changed with path the path to the matlab executable.
 
 ## NB!
 
